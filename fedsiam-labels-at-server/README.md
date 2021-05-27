@@ -3,7 +3,7 @@ A PyTorch implementation of  **labels-at-server scenario**  for the paper  **Fed
 
 
 
-you should place your data in `./fedsiam-kdd-master/data/mnist` (mnist for example)
+you should place your data in `./fedsiam-cikm2021-master/data/mnist` (mnist for example)
 
 ## IID Setting
 
