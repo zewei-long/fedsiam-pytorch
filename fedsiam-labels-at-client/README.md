@@ -6,7 +6,7 @@ We have 5 baselines (FedAvg, FedAvg+, FedSem, FedFixMatch, FedMatch) and 3 propo
 
 We do our experiments on MNIST, Cifar-10, and SVHN datasets.
 
-you should place your data in `./fedsiam-kdd-master/data/mnist` (mnist for example)
+you should place your data in `./fedsiam-cikm2021-master/data/mnist` (mnist for example)
 
 ## Getting Started
 
