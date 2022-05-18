@@ -1,4 +1,5 @@
 # FedSiam: Towards Adaptive Federated Semi-Supervised Learning
+https://arxiv.org/abs/2012.03292
 
 A PyTorch implementation for the paper  **FedSiam: Towards Adaptive Federated Semi-Supervised Learning**
 
